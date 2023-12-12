@@ -51,5 +51,9 @@ Step 2: Run the notebook cells to start recording audio and perform noise reduct
 - Special thanks to liborsa for the ffmg library 
 - Inspired by the work of https://colab.research.google.com/github/timsainb/noisereduce/blob/master/notebooks/1.0-test-noise-reduction.ipynb
 
+## License
+
+This project is licensed under the MIT License (LICENSE)
+
 
 
