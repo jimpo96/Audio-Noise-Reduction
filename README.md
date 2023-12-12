@@ -15,7 +15,9 @@ Step 4: Follow the instructions and run the cells to perform noise reduction on 
 
 ## Notebook 2: Real-time Noise Reduction with Audio Recording
 
-Step 1: Open the 'real_time_noise_reductio.ipynb' notebook
+Step 1: Open the 'real_time_noise_reductio.ipynb' notebook into Colab
 
 Step 2: Run the notebook cells to start recording audio and perform noise reduction in real-time
 
+
+### Note: Make sure to check and install any necessary dependencies specified in the notebooks
