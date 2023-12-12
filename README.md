@@ -17,7 +17,7 @@ Step 3: Download the 'author.wav' file
 Step 4: Follow the instructions and run the cells to perform noise reduction on the uploaded audio
 
 
-## Notebook 2: Real-time Noise Reduction with Audio Recording
+## &rarr; Notebook 2: Real-time Noise Reduction with Audio Recording
 
 Step 1: Open the 'real_time_noise_reduction.ipynb' notebook into Colab
 
