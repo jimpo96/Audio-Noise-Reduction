@@ -1,6 +1,6 @@
 # Audio Noise Reduction
 
-Author
+#### Author
 
 Contributor name : Dimitrios Kaoutzanis
 
