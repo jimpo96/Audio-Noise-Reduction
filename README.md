@@ -36,7 +36,7 @@ Step 2: Run the notebook cells to start recording audio and perform noise reduct
 <img width="1099" alt="wave_file_noise_reduction_nonstationary" src="https://github.com/jimpo96/Audio-Noise-Reduction/assets/118792027/7d61f0b2-1112-4f5b-8592-0788a5fc98ba">
 
 
-### Images from the Notebook 2
+### &rarr; Images from the Notebook 2
 
 
 ### Stationary Image
