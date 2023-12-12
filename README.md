@@ -42,5 +42,14 @@ Step 2: Run the notebook cells to start recording audio and perform noise reduct
 <img width="1125" alt="real_time_noise_reduction_nonstationary" src="https://github.com/jimpo96/Audio-Noise-Reduction/assets/118792027/6b3b1d40-8ff0-4d67-8f9a-7bf2a209497e">
 
 
+### Dependencies
+
+- Python 3.x
+
+## Acknowledgments
+
+- Special thanks to liborsa for the ffmg library 
+- Inspired by the work of https://colab.research.google.com/github/timsainb/noisereduce/blob/master/notebooks/1.0-test-noise-reduction.ipynb
+
 
 
