@@ -33,20 +33,19 @@ Step 2: Run the notebook cells to start recording audio and perform noise reduct
 ### &rarr; Images from the Notebook 1
 
 ### Stationary Image
-<img width="1155" alt="wave_file_noise_reduction_stationary" src="https://github.com/jimpo96/Audio-Noise-Reduction/assets/118792027/89da86c0-3502-47b8-9dd3-f36b642d39cc">
+![Stationary_Remove_Noise_audiofile](https://github.com/jimpo96/Audio-Noise-Reduction/assets/118792027/ff4db5f0-c6a0-4df7-8554-90e876cc4dcf)
 
 ### Non-Stationary Image
-<img width="1099" alt="wave_file_noise_reduction_nonstationary" src="https://github.com/jimpo96/Audio-Noise-Reduction/assets/118792027/7d61f0b2-1112-4f5b-8592-0788a5fc98ba">
+![NonStationary_Remove_Noise_audiofile](https://github.com/jimpo96/Audio-Noise-Reduction/assets/118792027/90347bfe-d702-4faa-a54a-7022c06bbd06)
 
 
 ### &rarr; Images from the Notebook 2
 
-
 ### Stationary Image
-<img width="1113" alt="real_time_noise_reduction_stationary" src="https://github.com/jimpo96/Audio-Noise-Reduction/assets/118792027/65fc26e4-e0ea-4472-80a1-ac0ebcf216fe">
+![Stationary_Remove_Noise_realtime](https://github.com/jimpo96/Audio-Noise-Reduction/assets/118792027/4bd544b1-b584-4c31-af1c-ed2e1ac42318)
 
 ### Non-Stationary Image
-<img width="1125" alt="real_time_noise_reduction_nonstationary" src="https://github.com/jimpo96/Audio-Noise-Reduction/assets/118792027/6b3b1d40-8ff0-4d67-8f9a-7bf2a209497e">
+![NonStationary_Remove_Noise_realtime](https://github.com/jimpo96/Audio-Noise-Reduction/assets/118792027/5aa9cb6a-4c12-44c0-829d-5c86da921223)
 
 
 ### Dependencies
